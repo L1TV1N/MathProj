@@ -49,7 +49,7 @@
 
 3. Запустите программу:
    ```bash
-   python UI_1.7.8.py
+   python mac.py
    ```
 
 ---
